@@ -1,0 +1,7 @@
+
+
+importing a pandas file.
+
+
+import pandas as pd
+df = pd.read_csv("E:\Ex_Files_Pandas_EssT\weather_data.csv")
