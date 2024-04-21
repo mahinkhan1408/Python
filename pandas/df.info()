@@ -1,3 +1,15 @@
 df.info()
 
 -all information about rows and columns
+
+
+df.shape
+
+-row /column no
+
+df.head(5)
+
+-show first 5 values
+
+df.tail(10)
+-show last 10 values
