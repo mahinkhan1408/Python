@@ -1,0 +1,8 @@
+import pandas as pd
+df = pd.read_csv(r"E:\Ex_Files_Pandas_EssT\a.txt.txt", sep='\t')
+df
+
+------------------------
+import pandas as pd
+df = pd.read_table(r"E:\Ex_Files_Pandas_EssT\a.txt.txt", sep='\t')
+df
