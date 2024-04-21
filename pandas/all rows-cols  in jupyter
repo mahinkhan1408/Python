@@ -2,4 +2,4 @@ pd.set_option('display.max.rows',235)
 
 for columns
 
-pd.set_option('display.max.cols',235)
+pd.set_option('display.max.columns',235)
