@@ -13,3 +13,10 @@ df.head(5)
 
 df.tail(10)
 -show last 10 values
+-----------------------------
+df['Rank']
+
+-here rank is the title of a column.  this will show only the rank column
+-------------------------
+df.loc[110]
+-will show the columns in the 110th row 
