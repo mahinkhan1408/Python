@@ -1,0 +1,11 @@
+import pandas as pd
+df = pd.read_csv("E:\Ex_Files_Pandas_EssT\weather_data.csv", header = None)
+df
+
+
+
+-------------------------
+
+  import pandas as pd
+df = pd.read_csv("E:\Ex_Files_Pandas_EssT\weather_data.csv", header = None , names = ['h1','h2','h3','h4'])
+df
