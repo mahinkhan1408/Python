@@ -20,3 +20,5 @@ df['Rank']
 -------------------------
 df.loc[110]
 -will show the columns in the 110th row 
+--------
+df.iloc[110]
