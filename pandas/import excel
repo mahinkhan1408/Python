@@ -1,0 +1,16 @@
+to import the first sheet (default)
+
+import pandas as pd
+df = pd.read_excel(r"E:\Ex_Files_Pandas_EssT\world_population_excel_workbook.xlsx")
+df
+
+
+--------------------------------
+
+To import the specific sheet in a excel file
+
+import pandas as pd
+df = pd.read_excel(r"E:\Ex_Files_Pandas_EssT\world_population_excel_workbook.xlsx" , sheet_name ='Sheet1')
+df
+
+(case sensitive)
